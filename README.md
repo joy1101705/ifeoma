@@ -7,7 +7,12 @@ The data used in this dashboard is stored in an Excel file and covers sales perf
 ## Tools
 - excel- data cleaning.[download here](https://microsoft.com)
 - -sql- data analysis
-- powerbi- creating reports
+- powerbi- creating 
+### data cleaning
+- i performed the following data cleaning
+- remove duplicate values by highlighting the whole dataset click on data and click on remove duplicate
+- i formated the dataset to a tabl
+- i removed blank cell 
 
 
 
